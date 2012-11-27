@@ -1,5 +1,5 @@
 # Lywon
-### Not even the beta. Pre-alpha. Always.
+### Not even beta release. Pre-alpha. Always.
 This little script helps learning new words or remembering already known vocabulary.
 
 #### Usage:
@@ -14,3 +14,4 @@ Quit: type `;;;` as answer
 * Quit after SIGQUIT (Ctrl+D) signal instead of `;;;`
 * Better screen clearing
 * Save stats
+
