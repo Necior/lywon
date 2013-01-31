@@ -9,6 +9,7 @@ Start: `./lywon.pl db/example`
 Quit: type `;;;` as answer
 
 #### Bugs/todo/to fix:
+* Rewrite whole script
 * Does input file exist?
 * Is input file in proper format?
 * Quit after SIGQUIT (Ctrl+D) signal instead of `;;;`
