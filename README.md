@@ -1,5 +1,6 @@
 # Lywon
-### ~~Not even beta release. Pre-alpha. Always ;)~~ Obsolete app. Use Anki
+### ~~Not even beta release. Pre-alpha. Always ;)~~ 
+###Obsolete app. Use dae/anki instead.
 This little script helps learning new words or remembering already known vocabulary.
 
 #### Usage:
